@@ -1,0 +1,1 @@
+var contentoptimizer_contentanalysis_data=function(t){return data=new Array,data.keyword=document.getElementById("edit-seo-keyword").value,data};
